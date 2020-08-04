@@ -1,4 +1,3 @@
-# lessonsC#
-Lessons in C#, mostly excersises. 
+# Excersises C#
 
 this is a repository consisting of excersises I made on C#.
