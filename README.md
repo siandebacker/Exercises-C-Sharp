@@ -1,3 +1,3 @@
-# Excersises C#
+# Exercises C#
 
-this is a repository consisting of excersises I made on C#.
+this is a repository consisting of exercises I made on C#.
